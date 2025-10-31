@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Fernando Olmos
 
-**Backend Developer | Fullstack Enthusiast | Cloud & DevOps Learner**
+**Desarrollador Backend  | Fullstack | Cloud & DevOps Learner**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/fernando-olmos-5a2a71309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="20" width="20" /></a>
